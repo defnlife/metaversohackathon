@@ -35,3 +35,5 @@ Although I played around with generative music and ended up using a composition,
 
     Next is to keep exploring the chip and lo-fi ASCII aesthetic with a clearer goal in mind
     Begin introducing generative elements in music and art to the series via Pure Data / Gem, ORCA, etc.
+    
+Video Explainer    https://youtu.be/EvQ_zpYiAAg
